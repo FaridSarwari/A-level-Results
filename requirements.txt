@@ -1,3 +1,5 @@
-dash==2.6.0
+dash==2.18.2
 pandas
+numpy
+flask
 gunicorn
