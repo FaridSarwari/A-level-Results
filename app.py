@@ -32,7 +32,7 @@ server = app.server
 
 # Layout
 app.layout = html.Div([
-    html.H1("A-level Results Dashboard"), 
+    html.H1("A-level Results Dashboard", 
             style={
                 'textAlign': 'center',
                 'padding': '20px',
